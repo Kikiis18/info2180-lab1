@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Web development illustration</title>
+  <desc id="desc">A stylized browser window containing code brackets and a cursor.</desc>
+  <rect width="640" height="360" rx="18" fill="#e8f7f2"/>
+  <rect x="72" y="56" width="496" height="248" rx="14" fill="#ffffff" stroke="#44ccac" stroke-width="6"/>
+  <circle cx="106" cy="88" r="9" fill="#44ccac"/>
+  <circle cx="136" cy="88" r="9" fill="#6060dd"/>
+  <circle cx="166" cy="88" r="9" fill="#24332f"/>
+  <path d="M214 158 166 204l48 46M426 158l48 46-48 46M374 142l-46 124" fill="none" stroke="#6060dd" stroke-linecap="round" stroke-linejoin="round" stroke-width="14"/>
+  <rect x="114" y="276" width="412" height="10" rx="5" fill="#dcece6"/>
+</svg>
